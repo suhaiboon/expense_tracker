@@ -5,10 +5,3 @@ function App() {
 }
 // testing pushing to github
 export default App;
-adding for test
-
-adding more 
-
-adiiiga
-asdflikjasdfsdaf
-ailuhghalskdf
